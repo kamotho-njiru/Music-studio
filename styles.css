@@ -1,0 +1,17 @@
+.topnav {
+    font-family: 'Covered By Your Grace', cursive;
+    background-color: darkslategray
+}
+
+.topnav a {
+    float: left;
+    text-align: centre;
+    color: yellow;
+    padding: 14px 16px;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: whitesmoke;
+    color: black;
+}
