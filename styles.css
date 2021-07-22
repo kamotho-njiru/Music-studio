@@ -4,14 +4,14 @@
 }
 
 .topnav a {
-    float: left;
+    float: right;
     text-align: centre;
-    color: yellow;
+    color: black;
     padding: 14px 16px;
     font-size: 17px;
 }
 
 .topnav a:hover {
-    background-color: whitesmoke;
+    background-color: yellow;
     color: black;
 }
