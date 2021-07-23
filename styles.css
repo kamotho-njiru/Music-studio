@@ -1,3 +1,11 @@
+header {
+    height: 100vh;
+    background-image: url(./images/harp.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
 .topnav {
     font-family: 'Covered By Your Grace', cursive;
     background-color: darkslategray
@@ -6,7 +14,7 @@
 .topnav a {
     float: right;
     text-align: centre;
-    color: black;
+    color: white;
     padding: 14px 16px;
     font-size: 17px;
 }
@@ -14,6 +22,16 @@
 .topnav a:hover {
     background-color: yellow;
     color: black;
+}
+
+h1 {
+    color: white;
+    display: inline-block;
+}
+
+.nicemusic {
+    position: absolute;
+    margin-top: 5vh;
 }
 
 img {
